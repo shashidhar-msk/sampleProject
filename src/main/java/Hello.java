@@ -5,7 +5,3 @@ public class Hello {
 	}
 
 }
-
-
-
-//lines added
